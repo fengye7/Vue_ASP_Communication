@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSdKQ0YHT2BJc3yS4NA6tqe11VYp0b7w9M0WzwsyKXm06aN9I8kT3Bujfzgzvw+eN+i7m6EC+86gg8prspAgug==",
+  "success": true,
+  "projectFilePath": "E:\\Exercise\\VScode\\VueExercise\\test1\\demo3\\Back_End\\demo3\\demo3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fengye7\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
